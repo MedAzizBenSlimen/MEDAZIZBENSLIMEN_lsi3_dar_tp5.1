@@ -45,12 +45,12 @@ Résultat obtenu : 1675.0 TND
 
 
 ### Exécution du serveur
-![Server Execution](Screenshots/tp5.1.png)
+![Server Execution](screenshots/tp5.1.png)
 
 
 
 ### Exécution du client
-![Client Execution](Screenshots/tp5.png)
+![Client Execution](screenshots/tp5.png)
 
 ## Conclusion
 Ce TP m'a permis de comprendre et de mettre en pratique le mécanisme Java RMI, notamment la définition d'une interface distante, l'implémentation d'un service, l'enregistrement dans le RMI Registry et l'invocation d'une méthode distante depuis un client.
